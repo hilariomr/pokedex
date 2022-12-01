@@ -21,7 +21,7 @@ Projeto desenvolvido no Bootcamp DIO Orange Tech.
 <br>
 
 <p align="center">
-  <img alt="pokedex" src=".github/preview.png" width="100%">
+  <img alt="pokedex" src=".github/pokedex.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
